@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# Server Files
+bans.txt
+classicserver.exe
+ops.txt
+settings.txt
+world.gw
